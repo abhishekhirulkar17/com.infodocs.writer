@@ -1,0 +1,27 @@
+# Created at 2023-06-09T16:59:48.478
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-06-09T16:59:48.486
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# There is insufficient memory for the Java Runtime Environment to continue.'.
+
+# Created at 2023-06-09T16:59:48.488
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# Native memory allocation (malloc) failed to allocate 1384336 bytes for Chunk::'.
+
+# Created at 2023-06-09T16:59:48.489
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'new'.
+
+# Created at 2023-06-09T16:59:48.491
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# An error report file with more information is saved as:'.
+
+# Created at 2023-06-09T16:59:48.493
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# C:\Users\Shamal Shinde\eclipse-workspace\InfoDocs\hs_err_pid59412.log'.
+
+# Created at 2023-06-09T16:59:48.547
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '#'.
+
+# Created at 2023-06-09T16:59:48.548
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# Compiler replay data is saved as:'.
+
+# Created at 2023-06-09T16:59:48.549
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '# C:\Users\Shamal Shinde\eclipse-workspace\InfoDocs\replay_pid59412.log'.
+

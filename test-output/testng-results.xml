@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="90902" started-at="2023-05-24T17:26:01 IST" finished-at="2023-05-24T17:27:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8491" started-at="2023-05-24T17:26:01 IST" finished-at="2023-05-24T17:26:10 IST">
+      <class name="mcom.writer.selenium.Login">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:mcom.writer.selenium.Login@6aa3a905]" name="intialize" is-config="true" duration-ms="4132" started-at="2023-05-24T17:26:01 IST" finished-at="2023-05-24T17:26:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:mcom.writer.selenium.Login@6aa3a905]" name="basePageNavigation" duration-ms="4278" started-at="2023-05-24T17:26:06 IST" data-provider="getData" finished-at="2023-05-24T17:26:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdemo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Writer@456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- mcom.writer.selenium.Login -->
+    </test> <!-- Test -->
+    <test name="Test1" duration-ms="13539" started-at="2023-05-24T17:26:10 IST" finished-at="2023-05-24T17:26:24 IST">
+      <class name="mcom.writer.selenium.User_Settings">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:mcom.writer.selenium.User_Settings@2fc6f97f]" name="intialize" is-config="true" duration-ms="3309" started-at="2023-05-24T17:26:10 IST" finished-at="2023-05-24T17:26:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:mcom.writer.selenium.User_Settings@2fc6f97f]" name="basePageNavigation" duration-ms="10219" started-at="2023-05-24T17:26:14 IST" data-provider="getData" finished-at="2023-05-24T17:26:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdemo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Writer@456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- mcom.writer.selenium.User_Settings -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="52521" started-at="2023-05-24T17:26:24 IST" finished-at="2023-05-24T17:27:16 IST">
+      <class name="mcom.writer.selenium.Config">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:mcom.writer.selenium.Config@49c6c24f]" name="intialize" is-config="true" duration-ms="3679" started-at="2023-05-24T17:26:24 IST" finished-at="2023-05-24T17:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:mcom.writer.selenium.Config@49c6c24f]" name="basePageNavigation" duration-ms="48836" started-at="2023-05-24T17:26:27 IST" data-provider="getData" finished-at="2023-05-24T17:27:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdemo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Writer@456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- mcom.writer.selenium.Config -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="16018" started-at="2023-05-24T17:27:16 IST" finished-at="2023-05-24T17:27:32 IST">
+      <class name="mcom.writer.selenium.Reports">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:mcom.writer.selenium.Reports@5023bb8b]" name="intialize" is-config="true" duration-ms="3797" started-at="2023-05-24T17:27:16 IST" finished-at="2023-05-24T17:27:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:mcom.writer.selenium.Reports@5023bb8b]" name="basePageNavigation" duration-ms="12210" started-at="2023-05-24T17:27:20 IST" data-provider="getData" finished-at="2023-05-24T17:27:32 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testdemo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Writer@456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- mcom.writer.selenium.Reports -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.writer.selenium.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Test2(failed)">
+    <classes>
+      <class name="mcom.writer.selenium.Config">
+        <methods>
+          <include name="intialize"/>
+          <include name="basePageNavigation" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- mcom.writer.selenium.Config -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
